@@ -7,6 +7,6 @@ First we have to install npm packages with this command
 
 After installing package use
 
----
-npm start
----
+
+'npm start'
+
