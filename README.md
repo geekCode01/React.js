@@ -3,9 +3,7 @@ All about React
 
 First we have to install npm packages with this command
 
----
-npm install
----
+> npm install
 
 After installing package use
 
