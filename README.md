@@ -1,11 +1,11 @@
 # React.js
 All about React
 
-First we have to install npm packages with this command
+install npm packages
 ---
 > npm install
 
-After installing package use
+build
 ---
 >npm start
 
